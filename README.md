@@ -2,7 +2,7 @@
   Yogendra Pandey | Portfolio Website<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Portfolio.png" />
+  <img alt="Demo" src="./Images/readme_img.png" />
 </div>
 
 <br/>
