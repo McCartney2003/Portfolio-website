@@ -1,12 +1,12 @@
 <h2 align="center">
-  Rahul Jha | Portfolio Website<br/>
-  <a href="https://www.rahuljha.info/" target="_blank">rahul jha</a>
+  Yogendra Pandey | Portfolio Website<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme_img.png" />
+  <img alt="Demo" src="./Images/Portfolio.png" />
 </div>
 
 <br/>
+
 
 This project is built using these technologies.
 
